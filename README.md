@@ -18,6 +18,9 @@ Improve ease of use
 - [ ] InputBox Layouts
 - [ ] Color Styling, Image Use
 
+## Importing the Files into a Workbook
+
+Open VBA -> Right-Click the Project -> Import File... -> Select File with .frm extension
 
 ## Documents Included:
 
