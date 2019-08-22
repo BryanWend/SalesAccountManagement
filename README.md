@@ -12,7 +12,7 @@ Utilize input forms to assist with autofilling prerequisite fields and provide a
 
 ## Future Improvements
 
-Improve ease of use
+Improve ease of use through:
 
 - [ ] Font Size
 - [ ] InputBox Layouts
@@ -29,26 +29,19 @@ ExampleFile.xlsm
   - Example dataset for testing with the provided forms/macros.
   - Forms/Macros are already embedded into workbook.
 
-addForm.frm
-
-  - File containing Add Account form and corresponding VBA code
-  
-addForm.frx
-
-  - .frx is imported alongside a .frm and will handle any use of images through pictureboxes, etc
-  
 addFormVBAText.txt
 
   - .txt backup file of the VBA code for the Add Account Form
-
-editForm.frm
-
-  - File containing Edit Account form and corresponding VBA code
-  
-editForm.frx
-
-  - .frx is imported alongside a .frm and will handle any use of images through pictureboxes, etc
   
 editFormVBAText.txt
 
   - .txt backup file of the VBA code for the Edit Account Form
+
+addForm.frm, editForm.frm
+
+  - File containing Add/Edit Account form and corresponding VBA code
+  
+addForm.frx, editForm.frx
+
+  - .frx is imported alongside a .frm and is required to properly import without errors
+  
